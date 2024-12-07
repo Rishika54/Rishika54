@@ -21,7 +21,7 @@ Here’s a list of technologies I’m learning or regularly working with:
 
 ## 🔥 What I'm Currently Working On
 
-- Building a **[agricultural Website]** using **[HTML,CSS,Javascript,node.js,mongoDB]** (check it out on my GitHub [here](https://github.com/[Rishika]/[Agricultural Website])).
+- Building a **[agricultural Website]** using **[HTML,CSS,Javascript,node.js,mongoDB]** (check it out on my GitHub [here](https://github.com/Rishika/Agricultural Website)).
 - Developing my skills in **[Data Structures, Web Development, etc.]** by working on personal projects and problem-solving platforms like **LeetCode**, **GFG**.
 - Collaborating on **[Hackathons Projects]** and learning more about **[ Web Development, Graphics.]**.
 
@@ -29,7 +29,7 @@ Here’s a list of technologies I’m learning or regularly working with:
 
 Here’s a quick view of my contributions:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Rishika]&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishika&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 🌍 Connect with Me
 
