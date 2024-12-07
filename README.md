@@ -1,10 +1,10 @@
+ Hey, I'm Rishika ! 👋
 
+Welcome to my GitHub profile! I’m a **3rd-year Computer Science Engineering (CSE)** student with a passion for **technology**, **problem-solving**, and **coding**. I love learning new programming languages, working on projects, and contributing to open-source communities. I'm always excited about exploring new fields of computer science, from **algorithms** to **machine learning**, and I am focused on growing my skills every day.
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js
 - **Database**: MySQL, MongoDB, Firebase
 - **Version Control**: Git, GitHub
-- **Tools**: VS Code, Firebase,jupyter# Hey, I'm Rishika ! 👋
-
-Welcome to my GitHub profile! I’m a **3rd-year Computer Science Engineering (CSE)** student with a passion for **technology**, **problem-solving**, and **coding**. I love learning new programming languages, working on projects, and contributing to open-source communities. I'm always excited about exploring new fields of computer science, from **algorithms** to **machine learning**, and I am focused on growing my skills every day.
+- **Tools**: VS Code, Firebase,jupyter
 
 ## 🚀 About Me
 
