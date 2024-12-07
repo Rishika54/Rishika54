@@ -35,9 +35,9 @@ Here’s a quick view of my contributions:
 
 I love connecting with like-minded people. You can reach out to me here:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/[Rishika Baghel])
-- 🌐 [Portfolio/Website](https://www.yourwebsite.com)
-- 📧 [Email](rishikabaghel029@gmai.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/Rishika Baghel)
+- 🌐 [Portfolio/Website](https://www.Rishika54.com)
+- 📧 [Email](rishikabaghel029@gmail.com)
 
 ## 📝 Blog & Writing
 
