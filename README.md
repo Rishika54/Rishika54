@@ -25,12 +25,6 @@ Here’s a list of technologies I’m learning or regularly working with:
 - Developing my skills in **[Data Structures, Web Development, etc.]** by working on personal projects and problem-solving platforms like **LeetCode**, **GFG**.
 - Collaborating on **[Hackathons Projects]** and learning more about **[ Web Development, Graphics.]**.
 
-## 📊 GitHub Stats
-
-Here’s a quick view of my contributions:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishika&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
 ## 🌍 Connect with Me
 
 I love connecting with like-minded people. You can reach out to me here:
